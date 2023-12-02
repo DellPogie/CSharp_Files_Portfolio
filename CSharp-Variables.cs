@@ -19,7 +19,7 @@ public class MyVariables
 		Console.WriteLine("byte = " + _byte);
 		Console.WriteLine("short = " + _short);
 		Console.WriteLine("long = " + _long);
-		Console.WriteLine("floag = " + _float);
+		Console.WriteLine("float = " + _float);
 		Console.WriteLine("double = " + _double);
 		Console.WriteLine("decimal = " + _decimal);
 		Console.WriteLine("char = " + _char);
